@@ -1,7 +1,7 @@
 GeekTrust Finding Falcone coding challenge. This project is done using React framework.
 
 ### Build
-This project uses webpack and create React app for the build . The build can be triggered using npm scripts. The project is built and deployed here (https://finding-falcone-anushree.netlify.app/
+This project uses webpack and create React app for the build . The build can be triggered using npm scripts. The project is built and deployed here (https://62ecca6245349f236039b85b--coruscating-centaur-c0290a.netlify.app/
 )
 
 ```
@@ -51,7 +51,7 @@ This UI will enable King Shan to -
 - see how much time it will take for the vehicles to reach their targets &
 - show final result of success or failure 
 
-Check this out @ https://finding-falcone-anushree.netlify.app/
+Check this out @ https://62ecca6245349f236039b85b--coruscating-centaur-c0290a.netlify.app/
 
 ![alt text](https://media.giphy.com/media/WoF5Y6OzurdHLSrPcS/giphy.gif "Image of the project")
 
